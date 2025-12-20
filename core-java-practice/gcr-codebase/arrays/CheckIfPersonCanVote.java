@@ -9,9 +9,9 @@ class CheckIfPersonCanVote{
         }
         for(int i=0;i<age.length;i++){
             if(age[i]>18){
-                System.out.print("The person's age is "+age+ " and can vote");
+                System.out.print("The student with age "+age[i]+ " can vote");
             }else{
-                System.out.print("The person's age is "+age+ " and cannot vote");
+                System.out.print("The student with age "+age[i]+ " cannot vote");
             }
         }
     }
