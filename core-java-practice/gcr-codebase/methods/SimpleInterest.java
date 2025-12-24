@@ -2,7 +2,7 @@ import java.util.*;
 public class SimpleInterest{
 	public static double calculateSI(double p, double r, double t) {
         //prt formula
-        return (p*r* t)/ 100;
+        return (p*r* t)/100;
     }
 	public static void main(String[] args) {
 		Scanner input =new Scanner(System.in);
