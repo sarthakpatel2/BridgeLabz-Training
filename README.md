@@ -1,20 +1,20 @@
 # BridgeLabz-Training
 
-BridgeLabz-Training/
-│
-├── core-java-practice/ (Branch & Main Folder)
-│   │
-│   ├── gcr-codebase/
-│   │   ├── programming-elements/
-│   │   ├── control-flow/
-│   │   ├── arrays/
-│   │   └── strings/
-│   │
-│   ├── leet-code-codebase/
-│   │
-│   └── scenario-based/
-│
-└── README.me
+- BridgeLabz-Training/ 
+- │
+- ├── core-java-practice/ (Branch & Main Folder)
+- │   │
+- │   ├── gcr-codebase/
+- │   │   ├── programming-elements/
+- │   │   ├── control-flow/
+- │   │   ├── arrays/
+- │   │   └── strings/
+- │   │
+- │   ├── leet-code-codebase/
+- │   │
+- │   └── scenario-based/
+- │
+- └── README.me
 
 
 
@@ -58,4 +58,6 @@ BridgeLabz-Training/
 - **24-Dec-2025 (Wednesday)** :-
   - Solved String Methods – Level 1 and Level 2 practice problems
 
-
+- **26-Dec-2025 (Friday)** :-
+  - Solved String Methods Level 3 and Uploaded it
+  - Solved Extra Questions on String Methods
