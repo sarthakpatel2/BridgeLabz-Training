@@ -30,6 +30,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
 ## Week 1: Java Basics, Control Flow & Arrays
 
 - **16-Dec-2025 (Tuesday)** :-
+  - Introduction to BridgeLabz training process and guidelines 
   - Installed JDK
   - Installed Eclipse IDE
 
@@ -45,10 +46,13 @@ This repository contains all the tasks, practice programs, scenario-based proble
 - **19-Dec-2025 (Friday)** :-
   - Studied Control Flow documentation
   - Solved and submitted Control Flow practice problems
+  - Enhanced logical thinking and problem-solving
 
 - **20-Dec-2025 (Saturday)** :-
   - Studied Arrays documentation
   - Solved all level practice problems related to Arrays
+  - Solved practice problems based on single and multi-dimensional arrays
+  - Solved 2 Scenario Based questions
 
 
 ## Week 2: Strings
@@ -56,13 +60,16 @@ This repository contains all the tasks, practice programs, scenario-based proble
 - **22-Dec-2025 (Monday)** :-
   - Studied String documentation
   - Solved Level 1 and Level 2 String practice problems
+  - Enhanced understanding of string manipulation and error handling
 
 - **23-Dec-2025 (Tuesday)** :-
   - Solved Level 3 String practice problems
+  - Solved a scenario based question on Election Botth Manager
+  - Strengthened logical thinking through conditional and iterative problem-solving
 
 - **24-Dec-2025 (Wednesday)** :-
   - Solved String Methods – Level 1 and Level 2 practice problems
-  - Solved Scenario based questions
+  - Solved a Scenario based questions on Smart metro card
 
 - **26-Dec-2025 (Friday)** :-
   - Solved String Methods Level 3 and Uploaded it
