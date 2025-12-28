@@ -1,4 +1,9 @@
-# BridgeLabz-Training
+## BridgeLabz Training
+
+This repository contains all the tasks, practice programs, scenario-based problems, and problem-solving work completed as part of **BridgeLabz Training** and organized week-wise, day-wise and topic-wise while following standard GitHub workflows.
+
+
+## Repository Structure :-
 
 - BridgeLabz-Training/ 
 - │
@@ -19,7 +24,7 @@
 
 
 
-### Weekly Workflow & Progress :-
+## Weekly Workflow & Progress :-
 
 
 ## Week 1: Java Basics, Control Flow & Arrays
@@ -57,7 +62,9 @@
 
 - **24-Dec-2025 (Wednesday)** :-
   - Solved String Methods – Level 1 and Level 2 practice problems
+  - Solved Scenario based questions
 
 - **26-Dec-2025 (Friday)** :-
   - Solved String Methods Level 3 and Uploaded it
   - Solved Extra Questions on String Methods
+  - Solved 2 scenario based questions
