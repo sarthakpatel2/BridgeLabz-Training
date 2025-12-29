@@ -71,13 +71,13 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved String Methods – Level 1 and Level 2 practice problems
   - Solved a Scenario based questions on *Smart Metro Card*
 
-
-## Week 3: 
-
 - **26-Dec-2025 (Friday)** :-
   - Solved String Methods Level 3 and Uploaded it
   - Solved Extra Questions on String Methods
   - Solved 2 scenario based questions
+
+
+## Week 3: 
 
 - **29-Dec-2025 (Monday)** :-
   - Completed Built-In Method Extra questions
