@@ -5,21 +5,21 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 ## Repository Structure :-
 
-- BridgeLabz-Training/ 
-- │
-- ├── core-java-practice/ (Branch & Main Folder)
-- │   │
-- │   ├── gcr-codebase/
-- │   │   ├── programming-elements/
-- │   │   ├── control-flow/
-- │   │   ├── arrays/
-- │   │   └── strings/
-- │   │
-- │   ├── leet-code-codebase/
-- │   │
-- │   └── scenario-based/
-- │
-- └── README.me
+     BridgeLabz-Training/ 
+     │
+     ├── core-java-practice/ (Branch & Main Folder)
+     │   │
+     │   ├── gcr-codebase/
+     │   │   ├── programming-elements/
+     │   │   ├── control-flow/
+     │   │   ├── arrays/
+     │   │   └── strings/
+     │   │
+     │   ├── leet-code-codebase/
+     │   │
+     │   └── scenario-based/
+     │
+     └── README.me
 
 
 
@@ -64,14 +64,22 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 - **23-Dec-2025 (Tuesday)** :-
   - Solved Level 3 String practice problems
-  - Solved a scenario based question on Election Botth Manager
+  - Solved a scenario based question on *Election Booth Manager*
   - Strengthened logical thinking through conditional and iterative problem-solving
 
 - **24-Dec-2025 (Wednesday)** :-
   - Solved String Methods – Level 1 and Level 2 practice problems
-  - Solved a Scenario based questions on Smart metro card
+  - Solved a Scenario based questions on *Smart Metro Card*
+
+
+## Week 3: 
 
 - **26-Dec-2025 (Friday)** :-
   - Solved String Methods Level 3 and Uploaded it
   - Solved Extra Questions on String Methods
   - Solved 2 scenario based questions
+
+- **29-Dec-2025 (Monday)** :-
+  - Completed Built-In Method Extra questions
+  - Solved 4 Scenario based questions
+  - Solved *Employee Wage Computation* Scenario based question  
