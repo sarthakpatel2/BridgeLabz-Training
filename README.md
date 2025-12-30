@@ -82,4 +82,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
 - **29-Dec-2025 (Monday)** :-
   - Completed Built-In Method Extra questions
   - Solved 4 Scenario based questions
-  - Solved *Employee Wage Computation* Scenario based question  
+  - Solved *Employee Wage Computation* Scenario based question
+ 
+- **30-Dec-2025 (Tuesday)** :-
+  - Solved *Line Comparison* Scenario based question
+  - Solved *Snake And Ladder* Scenario based question
+  - Studied Oops Java Material sheet and Git Cheat Sheet
