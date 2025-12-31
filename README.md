@@ -4,22 +4,26 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Repository Structure :-
-
-     BridgeLabz-Training/ 
+     
+     BridgeLabz-Training/
      │
-     ├── core-java-practice/ (Branch & Main Folder)
+     ├── core-java-practice/     
      │   │
      │   ├── gcr-codebase/
      │   │   ├── programming-elements/
-     │   │   ├── control-flow/
-     │   │   ├── arrays/
-     │   │   └── strings/
+     │   │   └── control-flow/
      │   │
      │   ├── leet-code-codebase/
      │   │
      │   └── scenario-based/
      │
-     └── README.me
+     ├── oops-practice/  
+     │   │
+     │   ├── gcr-codebase/
+     │   │   ├── class-and-object/
+     │   │   ├── java-constructors/
+     │
+     ├── reviews/     
 
 
 
@@ -88,3 +92,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Line Comparison* Scenario based question
   - Solved *Snake And Ladder* Scenario based question
   - Studied Oops Java Material sheet and Git Cheat Sheet
+ 
+- **31-Dec-2025 (Wednesday) :-**
+  - Solved java *Class And Object* assignment
+  - Solved *Java Constructor* and *Access Modifier* assignment
