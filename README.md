@@ -22,7 +22,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   ├── gcr-codebase/
      │   │   ├── class-and-object/
      │   │   ├── java-constructors/
-     │
+     |   |
+     │   └── scenario-based/
+     |
      ├── reviews/   
      |
      +-- README.md
@@ -98,3 +100,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
 - **31-Dec-2025 (Wednesday) :-**
   - Solved java *Class And Object* assignment
   - Solved *Java Constructor* and *Access Modifier* assignment
+ 
+- **01-Jan-2026 (Thursday) :-**
+  - Solved and submitted *Java Keywords* assignment
+  - Solved *Sentence Formatter* Scenario based question
+  - Solved *Paragraph Analyzer* Scennario based question
