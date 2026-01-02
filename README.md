@@ -22,6 +22,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   ├── gcr-codebase/
      │   │   ├── class-and-object/
      │   │   ├── java-constructors/
+     |   |   ├── java-keywords/
+     |   |   ├── object-modelling/
      |   |
      │   └── scenario-based/
      |
@@ -105,3 +107,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved and submitted *Java Keywords* assignment
   - Solved *Sentence Formatter* Scenario based question
   - Solved *Paragraph Analyzer* Scennario based question
+ 
+- **02-Jan-2026 (Friday) :-**
+  - Created *Object Modelling* diagrams
+  - Solved *Temperature Analyzer* scenario based question
+  - Solved *program to manage Student Scores* Scenario based question
