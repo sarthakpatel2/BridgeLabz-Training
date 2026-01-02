@@ -109,6 +109,6 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Paragraph Analyzer* Scennario based question
  
 - **02-Jan-2026 (Friday) :-**
-  - Created *Object Modelling* diagrams
+  - Studied and created *Object Modeling* diagrams
   - Solved *Temperature Analyzer* scenario based question
   - Solved *program to manage Student Scores* Scenario based question
