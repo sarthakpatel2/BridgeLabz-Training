@@ -23,7 +23,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── class-and-object/
      │   │   ├── java-constructors/
      |   |   ├── java-keywords/
-     |   |   ├── object-modelling/
+     |   |   ├── object-modeling/
+     |   |   ├── inheritance/
      |   |
      │   └── scenario-based/
      |
@@ -112,3 +113,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied and created *Object Modeling* diagrams
   - Solved *Temperature Analyzer* scenario based question
   - Solved *program to manage Student Scores* Scenario based question
+ 
+- **03-Jan-2026 (Saturday) :-**
+  - Studied material and Completed *Inheritance* assignment
+  - Solved *Library Management System* scenario based question
+  - Solved *EduQuiz* Scenario based question
