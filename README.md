@@ -25,6 +25,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
      |   |   ├── java-keywords/
      |   |   ├── object-modeling/
      |   |   ├── inheritance/
+     |   |   ├── oops-pillars/
      |   |
      │   └── scenario-based/
      |
@@ -118,3 +119,11 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied material and Completed *Inheritance* assignment
   - Solved *Library Management System* scenario based question
   - Solved *EduQuiz* Scenario based question
+ 
+
+## Week 4:  OOPS Concept
+
+- **05-Jan-2026 (Monday) :-**
+  - Studied the module and Solved some problems on *oops-pillars*
+  - Solved *Bank Account Manager* Scenario based question
+  - Solved *Utility class for Mathematical operations* Scenario based question
