@@ -27,6 +27,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      |   |   ├── inheritance/
      |   |   ├── oops-pillars/
      |   |
+     │   ├── leet-code-codebase/
+     |   |
      │   └── scenario-based/
      |
      ├── reviews/   
@@ -127,3 +129,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied the module and Solved some problems on *oops-pillars*
   - Solved *Bank Account Manager* Scenario based question
   - Solved *Utility class for Mathematical operations* Scenario based question
+ 
+- **06-Jan-2026 (Tuesday) :-**
+  - Solved and Submitted questions on *oops-concept*
+  - Solved Scenario based questions like *Phone Contact Organizer* and *Student Report Generator*
+  - Solved Scenario based question of *Cafeteria Menu App* and *Bank Account Manager*
