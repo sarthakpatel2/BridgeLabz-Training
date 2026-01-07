@@ -4,7 +4,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Repository Structure :-
-     
+  ---   
      BridgeLabz-Training/
      │
      ├── core-java-practice/     
@@ -39,10 +39,10 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Weekly Workflow & Progress :-
-
+---
 
 ## Week 1: Java Basics, Control Flow & Arrays
-
+---
 - **16-Dec-2025 (Tuesday)** :-
   - Introduction to BridgeLabz training process and guidelines 
   - Installed JDK
@@ -70,7 +70,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Week 2: Strings
-
+---
 - **22-Dec-2025 (Monday)** :-
   - Studied String documentation
   - Solved Level 1 and Level 2 String practice problems
@@ -91,8 +91,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved 2 scenario based questions
 
 
-## Week 3: 
-
+## Week 3: OOPS Basics
+---
 - **29-Dec-2025 (Monday)** :-
   - Completed Built-In Method Extra questions
   - Solved 4 Scenario based questions
@@ -123,8 +123,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *EduQuiz* Scenario based question
  
 
-## Week 4:  OOPS Concept
-
+## Week 4: Advance OOPS Concept
+---
 - **05-Jan-2026 (Monday) :-**
   - Studied the module and Solved some problems on *oops-pillars*
   - Solved *Bank Account Manager* Scenario based question
@@ -134,3 +134,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved and Submitted questions on *oops-concept*
   - Solved Scenario based questions like *Phone Contact Organizer* and *Student Report Generator*
   - Solved Scenario based question of *Cafeteria Menu App* and *Bank Account Manager*
+ 
+- **07-Jan-2026 (Wednesday) :-**
+  - Studied *Data Structure Introduction and LinkedList* material
+  - Studied *Approach towards Story Based Problem (Scenario)* sheet
+  - Solved *Cab Booking / Ride Management System* scenario based question
+  - Solved *Online Banking System* scenario based question
