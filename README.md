@@ -31,6 +31,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
      |   |
      │   └── scenario-based/
      |
+     |
+     ├── dsa-practice/  
+     │   ├── gcr-codebase/
+     │   │   ├── linked-list/
+     |   |
+     |   |
      ├── reviews/   
      |
      +-- README.md
@@ -123,7 +129,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *EduQuiz* Scenario based question
  
 
-## Week 4: Advance OOPS Concept
+## Week 4: Advance OOPS Concept And DSA
 ---
 - **05-Jan-2026 (Monday) :-**
   - Studied the module and Solved some problems on *oops-pillars*
@@ -140,3 +146,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied *Approach towards Story Based Problem (Scenario)* sheet
   - Solved *Cab Booking / Ride Management System* scenario based question
   - Solved *Online Banking System* scenario based question
+ 
+- **08-Jan-2026 (Thursday) :-**
+  - Solved some problems related to *linked list*
+  - Solved a scenario based question on *Invoice Generator for Freelancers*
