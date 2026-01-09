@@ -150,3 +150,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
 - **08-Jan-2026 (Thursday) :-**
   - Solved some problems related to *linked list*
   - Solved a scenario based question on *Invoice Generator for Freelancers*
+ 
+- **09-Jan-2026 (Friday) :-**
+  - Completed remaining problems related to *linked list*
+  - Solved  scenario based question on *Hospital Patient Management System*
+  - Solved  scenario based question on *Vehicle Rental Application*
+  - Solved  scenario based question on *Flight Booking System*
