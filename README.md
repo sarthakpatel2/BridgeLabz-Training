@@ -157,3 +157,14 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved  scenario based question on *Hospital Patient Management System*
   - Solved  scenario based question on *Vehicle Rental Application*
   - Solved  scenario based question on *Flight Booking System*
+ 
+
+## Week 5: DSA and OOPS Scenario 
+---
+- **12-Jan-2026 (Monday) :-**
+  
+  - Solved *E-Commerce Order Management System* Scenario based question
+  - Solved *Student Course Registration System* Scenario based question
+  - Solved *Inventory Management System* Scenario based question
+  - Solved *Hospital Management System* Scenario based question
+  - Solved *Online Examination System* Scenario based question
