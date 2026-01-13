@@ -168,3 +168,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Inventory Management System* Scenario based question
   - Solved *Hospital Management System* Scenario based question
   - Solved *Online Examination System* Scenario based question
+ 
+- **13-Jan-2026 (Tuesday) :-**
+  - Solved *Hotel Reservation System* Scenario based question
+  - Solved *Online Voting System* Scenario based question
+  - Solved *Digital Wallet System* Scenario based question
+  - Created and Resolved Git conflict
