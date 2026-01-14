@@ -35,9 +35,11 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── dsa-practice/  
      │   ├── gcr-codebase/
      │   │   ├── linked-list/
+     │   │   ├── stack-practice/
+     │   │   ├── hash-practice/
      |   |
      │   ├── leet-code-codebase/
-     |   |
+     |   
      ├── reviews/   
      |
      +-- README.md
@@ -174,3 +176,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Online Voting System* Scenario based question
   - Solved *Digital Wallet System* Scenario based question
   - Created and Resolved Git conflict
+ 
+
+- **14-Jan-2026 (Wednesday) :-**
+  - Studied *Stack, Queue and Hash Map* material
+  - Solved problems related to *Stack and Queue*
+  - Solved problems related to *Hash Map and Hash Set*
