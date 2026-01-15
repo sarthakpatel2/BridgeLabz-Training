@@ -182,3 +182,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied *Stack, Queue and Hash Map* material
   - Solved problems related to *Stack and Queue*
   - Solved problems related to *Hash Map and Hash Set*
+ 
+- **15-Jan-2026 (Thursday) :-**
+  - Studied *Sorting Algorithm* material
+  - Solved problems related to *Sorting Algorithms*
+  - Studied *Searching Algorithms* and *Address Book Problem* scenario based
