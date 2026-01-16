@@ -37,6 +37,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── linked-list/
      │   │   ├── stack-practice/
      │   │   ├── hash-practice/
+     │   │   ├── sorting/
+     │   │   ├── searching/
      |   |
      │   ├── leet-code-codebase/
      |   
@@ -177,7 +179,6 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Digital Wallet System* Scenario based question
   - Created and Resolved Git conflict
  
-
 - **14-Jan-2026 (Wednesday) :-**
   - Studied *Stack, Queue and Hash Map* material
   - Solved problems related to *Stack and Queue*
@@ -187,3 +188,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied *Sorting Algorithm* material
   - Solved problems related to *Sorting Algorithms*
   - Studied *Searching Algorithms* and *Address Book Problem* scenario based
+ 
+- **16-Jan-2026 (Friday) :-**
+  - Studied *Searching Algorithm* material
+  - Solved problems related to *Searching Algorithms*
+  - Studied *Algorithm's Runtime Analysis & Big-O Notation* sheet
