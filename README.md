@@ -193,3 +193,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied *Searching Algorithm* material
   - Solved problems related to *Searching Algorithms*
   - Studied *Algorithm's Runtime Analysis & Big-O Notation* sheet
+ 
+- **17-Jan-2026 (Saturday) :-**
+  - Started with the *Address Book Problem* 
+  - Solved remaining problems related to *Searching Algorithms*
+  - Studied *Master Git prgmng Documentation* sheet
