@@ -79,7 +79,7 @@ public class BrowserBuddy{
         BrowserTab tab=browser.getCurrentTab();
         tab.visit("google.com");
         tab.visit("github.com");
-        tab.visit("stackoverflow.com");
+        tab.visit("youtube.com");
         tab.back();
         tab.back();
         tab.forward();
