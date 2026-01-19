@@ -41,6 +41,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── searching/
      |   |
      │   ├── leet-code-codebase/
+     |   |
+     │   ├── scenario-based/
      |   
      ├── reviews/   
      |
@@ -198,3 +200,11 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Started with the *Address Book Problem* 
   - Solved remaining problems related to *Searching Algorithms*
   - Studied *Master Git prgmng Documentation* sheet
+ 
+
+## Week 6: DSA and Address Book Problem
+---
+- **19-Jan-2026 (Monday) :-**
+
+  - Solved some problems related *Address Book Problem* 
+  - Studied *Java Generics* sheet
