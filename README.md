@@ -39,6 +39,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── hash-practice/
      │   │   ├── sorting/
      │   │   ├── searching/
+     │   │   ├── runtime-analysis/
      |   |
      │   ├── leet-code-codebase/
      |   |
@@ -205,6 +206,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
 ## Week 6: DSA and Address Book Problem
 ---
 - **19-Jan-2026 (Monday) :-**
-
   - Solved some problems related *Address Book Problem* 
   - Studied *Java Generics* sheet
+ 
+- **20-Jan-2026 (Tuesday) :-**
+  - Solved some part of the *Address Book Problem* 
+  - Solved remaining problems related to *Big-O Notation*
+  - Solved *Employee Role Polymorphism* Scenario based question
+  - Solved *ParcelTracker* Scenario based question
+  - Solved *ExamProctor* Scenario based question
