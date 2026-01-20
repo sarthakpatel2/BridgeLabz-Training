@@ -1,0 +1,4 @@
+This is a sample line used for testing large file reading performance.
+The purpose of this file is to measure the efficiency of FileReader and InputStreamReader.
+Java file handling performance depends on buffering, encoding, and file size.
+This line is repeated multiple times to increase file size.
