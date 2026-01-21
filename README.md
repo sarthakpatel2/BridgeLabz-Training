@@ -45,6 +45,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
      |   |
      │   ├── scenario-based/
      |   
+     |
+     ├── collections-practice/ 
+     │   ├── gcr-codebase/
+     │   │   ├── generics/
+     |
+     |
      ├── reviews/   
      |
      +-- README.md
@@ -215,3 +221,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Employee Role Polymorphism* Scenario based question
   - Solved *ParcelTracker* Scenario based question
   - Solved *ExamProctor* Scenario based question
+ 
+- **21-Jan-2026 (Wednesday) :-**
+  - Solved *SmartCheckout – Supermarket Billing Queue* scenario based question 
+  - Solved and submitted problems related to *Java Generics*
+  - Studied *Exceptions* sheet
