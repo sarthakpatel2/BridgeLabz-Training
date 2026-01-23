@@ -49,6 +49,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── collections-practice/ 
      │   ├── gcr-codebase/
      │   │   ├── generics/
+     │   │   ├── collections/
      |
      |
      ├── reviews/   
@@ -226,3 +227,13 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *SmartCheckout – Supermarket Billing Queue* scenario based question 
   - Solved and submitted problems related to *Java Generics*
   - Studied *Exceptions* sheet
+ 
+- **22-Jan-2026 (Thursday) :-**
+  - Solved some problems related *Collections* 
+  - Studied *Java Streams* sheet
+  - Solved *SmartCheckout – Supermarket Billing Queue* scenario based problem
+ 
+- **23-Jan-2026 (Friday) :-**
+  - Solved and submitted assignment of *Collections* 
+  - Studied *Java Generics* sheet
+  - Solved *EduResults – Rank Sheet Generator* scenario based problem
