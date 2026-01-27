@@ -50,7 +50,11 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   ├── gcr-codebase/
      │   │   ├── generics/
      │   │   ├── collections/
-     |
+     │   │   ├── exceptions/
+     │   │   ├── java-streams/
+     |   |
+     |   |
+     │   ├── leet-code-codebase/
      |
      ├── reviews/   
      |
@@ -237,3 +241,13 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved and submitted assignment of *Collections* 
   - Studied *Java Generics* sheet
   - Solved *EduResults – Rank Sheet Generator* scenario based problem
+ 
+
+## Week 7: Collections
+---
+- **27-Jan-2026 (Monday) :-**
+  
+  - Solved and submitted *Exceptions* assignment
+  - Studied *Regex and JUnit* sheet
+  - Solved *Lexical Twist* scenario based problem
+  - Solved 2 Leetcode problems
