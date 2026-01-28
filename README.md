@@ -245,9 +245,16 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 ## Week 7: Collections
 ---
-- **27-Jan-2026 (Monday) :-**
+- **27-Jan-2026 (Tuesday) :-**
   
   - Solved and submitted *Exceptions* assignment
   - Studied *Regex and JUnit* sheet
   - Solved *Lexical Twist* scenario based problem
   - Solved 2 Leetcode problems
+
+- **28-Jan-2026 (Wednesday) :-**
+  - Solved *Flip Key* scenario based question
+  - Solved *Restaurant Table Reservation System* scenario based question
+  - Solved *File Backup Scheduler* scenario based question
+  - Studied *Regex and JUnit* sheet
+   
