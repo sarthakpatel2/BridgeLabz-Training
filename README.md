@@ -257,4 +257,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Restaurant Table Reservation System* scenario based question
   - Solved *File Backup Scheduler* scenario based question
   - Studied *Regex and JUnit* sheet
-   
+
+- **29-Jan-2026 (Thursday) :-**
+  - Solved *Future Logistics* scenario based question
+  - Studied *Annotations And Reflection* sheet
+  - Studied *CSV Data Handling* sheet
