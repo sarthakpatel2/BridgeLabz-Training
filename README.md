@@ -52,6 +52,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── collections/
      │   │   ├── exceptions/
      │   │   ├── java-streams/
+     │   │   ├── regex/
+     │   │   ├── junit-testing/
      |   |
      |   |
      │   ├── leet-code-codebase/
@@ -246,7 +248,6 @@ This repository contains all the tasks, practice programs, scenario-based proble
 ## Week 7: Collections
 ---
 - **27-Jan-2026 (Tuesday) :-**
-  
   - Solved and submitted *Exceptions* assignment
   - Studied *Regex and JUnit* sheet
   - Solved *Lexical Twist* scenario based problem
@@ -262,3 +263,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Future Logistics* scenario based question
   - Studied *Annotations And Reflection* sheet
   - Studied *CSV Data Handling* sheet
+
+- **30-Jan-2026 (Friday) :-**
+  - Studied *Regex and JUnit* sheet
+  - Solved *Regex* based question
+  - Solved some problems on *JUnit-Testing*
+  - Studied how to work with *Maven*
