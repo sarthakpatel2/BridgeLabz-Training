@@ -107,7 +107,7 @@ public class StreamBuzz{
                     } else{
                         topPosts.entrySet().stream()
                                 .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
-                                .forEach(e ->System.out.println(e.getKey()+" - "+e.getValue()));
+                                .forEach(e -> System.out.println(e.getKey()+" - "+e.getValue()));
                         System.out.println();
                     }
                     break;
