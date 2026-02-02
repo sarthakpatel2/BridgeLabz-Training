@@ -54,9 +54,15 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── java-streams/
      │   │   ├── regex/
      │   │   ├── junit-testing/
+     │   │   ├── reflection/
+     │   │   ├── annotations/
      |   |
      |   |
      │   ├── leet-code-codebase/
+     |
+     ├── io-programming-practice/
+     │   ├── gcr-codebase/
+     │   │   ├── CSV-handeling/
      |
      ├── reviews/   
      |
@@ -269,3 +275,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved *Regex* based question
   - Solved some problems on *JUnit-Testing*
   - Studied how to work with *Maven*
+ 
+## Week 8: IO-Programming 
+---
+- **02-Feb-2026 (Monday) :-**
+  
+  - Solved questions based on *CSV-Handeling*
+  - Studied about *Annotations And Reflection* sheet
+  - Solved problems related to *Reflection*
+  - Solved problems related to *Annotations*
