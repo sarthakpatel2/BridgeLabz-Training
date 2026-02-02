@@ -22,7 +22,7 @@ public class CSVToStudent{
     }
     public static void main(String[] args){
         List<Student> students=new ArrayList<>();
-        String filePath="collections-practice/gcr-codebase/CSV-handling/students.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/students.csv";
         try (BufferedReader br=new BufferedReader(new FileReader(filePath))){
             String line;
             //skip header

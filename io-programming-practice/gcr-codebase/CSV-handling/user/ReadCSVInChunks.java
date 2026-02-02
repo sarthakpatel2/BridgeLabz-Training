@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 public class ReadCSVInChunks{
     public static void main(String[] args){
-        String filePath="collections-practice/gcr-codebase/CSV-handling/large.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/large.csv";
         int batchSize=100;  //to process 100 at a time
         int totalCount= 0;
         int batchCount=0;

@@ -6,9 +6,9 @@ import java.util.HashMap;
 import java.util.Map;
 public class MergeCSVFiles{
     public static void main(String[] args){
-        String file1="collections-practice/gcr-codebase/CSV-handling/students1.csv";
-        String file2="collections-practice/gcr-codebase/CSV-handling/students2.csv";
-        String outputFile="collections-practice/gcr-codebase/CSV-handling/merged_students.csv";
+        String file1="io-programming-practice/gcr-codebase/CSV-handling/students1.csv";
+        String file2="io-programming-practice/gcr-codebase/CSV-handling/students2.csv";
+        String outputFile="io-programming-practice/gcr-codebase/CSV-handling/merged_students.csv";
         Map<String, String[]> studentMap=new HashMap<>();
         try (
             BufferedReader br1=new BufferedReader(new FileReader(file1));

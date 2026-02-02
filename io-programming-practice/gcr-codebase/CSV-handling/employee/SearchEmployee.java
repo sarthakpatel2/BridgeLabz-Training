@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 public class SearchEmployee{
     public static void main(String[] args){
-        String filePath="collections-practice/gcr-codebase/CSV-handling/employees.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/employees.csv";
         String line;
         boolean found=false;
         Scanner sc=new Scanner(System.in);

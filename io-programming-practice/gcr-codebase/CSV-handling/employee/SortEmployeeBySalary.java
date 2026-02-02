@@ -21,7 +21,7 @@ public class SortEmployeeBySalary{
     }
     public static void main(String[] args){
         List<Employee> employees=new ArrayList<>();
-        String filePath="collections-practice/gcr-codebase/CSV-handling/employees.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/employees.csv";
         String line;
         //read CSV file
         try (BufferedReader br=new BufferedReader(new FileReader(filePath))){

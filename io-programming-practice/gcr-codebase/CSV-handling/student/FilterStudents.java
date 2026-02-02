@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 public class FilterStudents{
     public static void main(String[] args){
-        String filePath="collections-practice/gcr-codebase/CSV-handling/students.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/students.csv";
         String line;
         try (BufferedReader br=new BufferedReader(new FileReader(filePath))){
             //skip header

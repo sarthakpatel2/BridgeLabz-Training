@@ -2,7 +2,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 public class WriteEmployeeCSV{
     public static void main(String[] args){
-        String filePath="collections-practice/gcr-codebase/CSV-handling/employees.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/employees.csv";
         try (FileWriter writer=new FileWriter(filePath)){
             //header
             writer.append("ID,Name,Department,Salary\n");

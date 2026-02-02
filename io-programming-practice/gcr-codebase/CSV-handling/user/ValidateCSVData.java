@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 public class ValidateCSVData{
     private static final String EMAIL_REGEX ="^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$";
     public static void main(String[] args){
-        String filePath="collections-practice/gcr-codebase/CSV-handling/users.csv";
+        String filePath="io-programming-practice/gcr-codebase/CSV-handling/users.csv";
         Pattern emailPattern=Pattern.compile(EMAIL_REGEX);
         String line;
         try (BufferedReader br=new BufferedReader(new FileReader(filePath))){

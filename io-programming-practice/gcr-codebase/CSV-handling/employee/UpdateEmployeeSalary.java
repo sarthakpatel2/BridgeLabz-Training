@@ -4,8 +4,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 public class UpdateEmployeeSalary{
     public static void main(String[] args){
-        String inputFile="collections-practice/gcr-codebase/CSV-handling/employees.csv";
-        String outputFile="collections-practice/gcr-codebase/CSV-handling/updated_employees.csv";
+        String inputFile="io-programming-practice/gcr-codebase/CSV-handling/employees.csv";
+        String outputFile="io-programming-practice/gcr-codebase/CSV-handling/updated_employees.csv";
         String line;
         try(
             BufferedReader br=new BufferedReader(new FileReader(inputFile));
