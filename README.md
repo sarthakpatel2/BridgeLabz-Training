@@ -63,6 +63,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── io-programming-practice/
      │   ├── gcr-codebase/
      │   │   ├── CSV-handeling/
+     │   │   ├── JSON_Data/
+     |
+     |
+     ├── java8/
+     │   ├── gcr-codebase/
+     │   │   ├── stream_API/
      |
      ├── reviews/   
      |
@@ -284,3 +290,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied about *Annotations And Reflection* sheet
   - Solved problems related to *Reflection*
   - Solved problems related to *Annotations*
+ 
+- **03-Feb-2026 (Tuesday) :-**
+  - Solved and submitted *Stream API* assignment
+  - Studied *Stream API and JSON Data* sheet
+  - Solved *Stream Buzz* scenario based problem
+  - Solved *Factory Robot Hazard Analyzer* scenario based problem
