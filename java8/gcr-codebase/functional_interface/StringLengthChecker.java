@@ -2,7 +2,7 @@ import java.util.function.Function;
 public class StringLengthChecker{
     public static void main(String[] args){
         int maxLimit=20;
-        //function (maps String to Integer)
+        //function - transforms input to output
         Function<String, Integer>lengthCalculator=message ->message.length();
         String message="I am Batman";
         int length=lengthCalculator.apply(message);
