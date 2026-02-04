@@ -69,6 +69,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── java8/
      │   ├── gcr-codebase/
      │   │   ├── stream_API/
+     │   │   ├── lambda-expression/
+     │   │   ├── functional-interface/
      |
      ├── reviews/   
      |
@@ -296,3 +298,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied *Stream API and JSON Data* sheet
   - Solved *Stream Buzz* scenario based problem
   - Solved *Factory Robot Hazard Analyzer* scenario based problem
+ 
+- **04-Feb-2026 (Wednesday) :-**
+  - Solved and submitted *Lambda Expression* assignment
+  - Solved and submitted *JSON Data* assignment
+  - Solved and submitted *Functional Interface* assignment
+  - Studied about *Lambda Expression and Functional Interface* 
