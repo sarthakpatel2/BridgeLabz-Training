@@ -303,4 +303,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved and submitted *Lambda Expression* assignment
   - Solved and submitted *JSON Data* assignment
   - Solved and submitted *Functional Interface* assignment
-  - Studied about *Lambda Expression and Functional Interface* 
+  - Studied about *Lambda Expression and Functional Interface*
+ 
+- **05-Feb-2026 (Thursday) :-**
+  - Solved  *Collectors* assignment
+  - Studied about *Collectors* in Java-8 
+  - Revised *Collections and Java-8 features*
