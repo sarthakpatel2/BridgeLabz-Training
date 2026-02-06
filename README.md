@@ -309,3 +309,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved  *Collectors* assignment
   - Studied about *Collectors* in Java-8 
   - Revised *Collections and Java-8 features*
+ 
+- **06-Feb-2026 (Friday) :-**
+  - Studied about the *SOLID Principles*
+  - Solved some questions related to *Collectors*
+  - Attended the *Power Skills* session
