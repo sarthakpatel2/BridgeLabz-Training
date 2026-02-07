@@ -314,3 +314,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied about the *SOLID Principles*
   - Solved some questions related to *Collectors*
   - Attended the *Power Skills* session
+ 
+- **07-Feb-2026 (Saturday) :-**
+  - Studied about the *Design Patterns*
+  - Worked on *SonarQube* approach
+  - Solved *OcenaFleet* Scenario based question
