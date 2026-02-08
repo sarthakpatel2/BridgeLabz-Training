@@ -44,7 +44,7 @@ public class BankingSystem{
         int[] amounts={3000, 4000, 2000, 5000, 1500};
         for (int i =0;i<amounts.length;i++){
             Thread t=new Thread(
-                new Transaction(account, "Customer-"+(i+1), amounts[i]),"Customer-"+(i+1));
+                new Transaction(account, "Customer-"+(i+1),amounts[i]),"Customer-"+(i+1));
             System.out.println(t.getName()+" state: "+t.getState());
             t.start();
         }
