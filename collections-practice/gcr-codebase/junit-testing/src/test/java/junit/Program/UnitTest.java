@@ -1,0 +1,35 @@
+package junit.Program;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import org.junit.jupiter.api.Test;
+public class UnitTest{
+    @Test
+    public void Test_Deposit_ValidAmount() throws Exception {
+        Program account =new Program(1000);
+        account.Deposit(500);
+        assertEquals(1500, account.getBalance());
+    }
+    @Test
+    public void Test_Deposit_NegativeAmount() {
+        Program account = new Program(1000);
+        Exception exception = assertThrows(Exception.class, () -> {
+            account.Deposit(-100);
+        });
+        assertEquals("Deposit amount cannot be negative", exception.getMessage());
+    }
+
+    @Test
+    public void Test_Withdraw_ValidAmount() throws Exception {
+        Program account = new Program(1000);
+        account.Withdraw(400);
+        assertEquals(600, account.getBalance());
+    }
+    @Test
+    public void Test_Withdraw_InsufficientFunds() {
+        Program account = new Program(1000);
+        Exception exception = assertThrows(Exception.class, ()-> {
+            account.Withdraw(2000);
+        });
+        assertEquals("Insufficient funds", exception.getMessage());
+    }
+}
