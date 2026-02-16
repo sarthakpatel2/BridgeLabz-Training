@@ -1,0 +1,9 @@
+com\addressbook\model\ContactPerson.class
+com\addressbook\service\ContactService.class
+com\addressbook\service\package-info.class
+com\addressbook\main\AddressBookMain.class
+com\addressbook\dao\ContactDAO.class
+com\addressbook\model\package-info.class
+com\addressbook\dao\package-info.class
+com\addressbook\package-info.class
+com\addressbook\main\package-info.class
