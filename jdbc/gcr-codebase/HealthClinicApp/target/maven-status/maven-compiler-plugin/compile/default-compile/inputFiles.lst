@@ -1,0 +1,15 @@
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\AppointmentDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\BillDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\DoctorDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\PatientDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\PrescriptionDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\SpecialtyDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\dao\VisitDAO.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\MainApp.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\model\Appointment.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\model\Doctor.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\model\Patient.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\model\Prescription.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\model\Specialty.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\model\Visit.java
+C:\capgemini-training\BridgeLabz-Training\jdbc\gcr-codebase\HealthClinicApp\src\main\java\com\healthclinic\utils\DBConnection.java

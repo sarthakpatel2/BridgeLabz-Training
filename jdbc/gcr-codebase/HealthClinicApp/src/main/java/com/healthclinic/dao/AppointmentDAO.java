@@ -5,7 +5,7 @@ import com.healthclinic.utils.DBConnection;
 
 import java.sql.*;
 
-public class AppointmentDAO {
+public class AppointmentDAO{
 
     public void bookAppointment(Appointment appointment) throws SQLException {
 
