@@ -72,6 +72,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   │   ├── lambda-expression/
      │   │   ├── functional-interface/
      |
+
+     ├── jdbc/
+     │   ├── gcr-codebase/
+     │   │   ├── HealthClinicApp/
+     |
+     |
      ├── reviews/   
      |
      +-- README.md
@@ -319,3 +325,51 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied about the *Design Patterns*
   - Worked on *SonarQube* approach
   - Solved *OcenaFleet* Scenario based question
+ 
+
+## Week 9: JDBC and DBMS
+---
+- **09-Feb-2026 (Monday) :-**
+  
+  - Studied about *JDBC* sheet
+  - Studied about *DBMS* sheet
+ 
+- **10-Feb-2026 (Tuesday) :-**
+  - Gave M1 mock test
+ 
+- **11-Feb-2026 (Wednesday) :-**
+  - Solved *Smart Parking Slot Allocation System* scenario based question
+  - - Solved *Courier Staff Shift Scheduler* scenario based question
+ 
+- **12-Feb-2026 (Thursday) :-**
+  - Studied about *Collectors* in Java-8 
+  - Revised *Collections and Java-8 features*
+ 
+- **13-Feb-2026 (Friday) :-**
+  - Studied *Java-8*
+  - Attended the *Power Skills* session
+ 
+- **14-Feb-2026 (Saturday) :-**
+  - Solved *Online Course Enrollment Manager* scenario based problem
+  - Studied about the basics of *Spring*
+
+
+
+## Week 10: JDBC and DBMS
+---
+- **16-Feb-2026 (Monday) :-**
+  
+  - Studied about *JDBC* sheet
+  - Studied about *DBMS* sheet
+  - Solved *JDBC* assignment
+ 
+- **17-Feb-2026 (Tuesday) :-**
+  - Solved *Disaster Relief Resource Allocation System* scenario based problem
+  - Solved *Smart Water Tank Monitoring System* scenario based problem
+  - Solved *Employee Wage Computation Problem*  
+ 
+- **18-Feb-2026 (Wednesday) :-**
+  - Gave M1 mock test
+ 
+- **19-Feb-2026 (Thursday) :-**
+  - Worked with the *Qunatity Measurement App*
